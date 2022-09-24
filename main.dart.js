@@ -54979,16 +54979,16 @@ A.TG.prototype={}
 A.B3.prototype={
 P(a){return new A.rp(B.D1,"\uc778 \uc560\ub2c8\uba40",A.a9V(null,B.f0,null),null)}}
 A.B4.prototype={
-P(a){var s,r,q,p,o,n=null,m="https://www.tiktok.com/@in.animal?_t=8VtxBX5rWFO&_r=1",l=A.og("https://instagram.com/inanimal_studio?r=nametag",0,n),k=A.og(m,0,n),j=A.og(m,0,n),i=A.aS(255,170,170,170),h=t.N,g=t.z,f=A.a([A.aJ(["\uc774\ubbf8\uc9c0","\uc778\uc2a4\ud0c0","url",l],h,g),A.aJ(["\uc774\ubbf8\uc9c0","\ud2f1\ud1a1","url",k],h,g),A.aJ(["\uc774\ubbf8\uc9c0","\uc544\uc774\ub514\uc5b4\uc2a4","url",j],h,g)],t.cs)
-g=A.nL(n,100,n)
-h=A.a9S("in animal",A.uo(n,n,B.i,n,n,n,n,n,"main_text",n,n,60,n,n,n,n,n,!0,n,n,n,n,n,A.a([new A.il(i,new A.t(3,-1),3)],t.j8),n,n),n,n)
+P(a){var s,r,q,p,o,n=null,m=A.og("https://instagram.com/inanimal_studio?r=nametag",0,n),l=A.og("https://www.tiktok.com/@in.animal?_t=8VtxBX5rWFO&_r=1",0,n),k=A.og("https://idus.kr/F6AKg",0,n),j=A.aS(255,170,170,170),i=t.N,h=t.z,g=A.a([A.aJ(["\uc774\ubbf8\uc9c0","\uc778\uc2a4\ud0c0","url",m],i,h),A.aJ(["\uc774\ubbf8\uc9c0","\ud2f1\ud1a1","url",l],i,h),A.aJ(["\uc774\ubbf8\uc9c0","\uc544\uc774\ub514\uc5b4\uc2a4","url",k],i,h)],t.cs)
+h=A.nL(n,100,n)
+i=A.a9S("in animal",A.uo(n,n,B.i,n,n,n,n,n,"main_text",n,n,60,n,n,n,n,n,!0,n,n,n,n,n,A.a([new A.il(j,new A.t(3,-1),3)],t.j8),n,n),n,n)
 s=A.nL(n,5,n)
-r=A.a([new A.fK(0,B.dW,i,new A.t(1,1),3)],t.xq)
+r=A.a([new A.fK(0,B.dW,j,new A.t(1,1),3)],t.xq)
 r=A.MP(n,n,n,new A.fI(n,n,A.a7G(B.i,1.5),n,r,n,B.bf),n,n,n,300)
 q=A.nL(n,5,n)
 p=A.ahV(n,n,new A.pz("assets/main_image.png",n,n))
 o=A.nL(n,10,n)
-return new A.ty(new A.Dq(A.Mf(new A.yz(B.aG,B.qg,B.qh,B.kL,n,B.jy,n,A.a([g,h,s,r,q,new A.qP(p,n),o,new A.AJ(new A.Yg(new A.SK(new A.SJ(),f),3,!0,!0,!0,n),B.al,B.aG,!1,n,n,new A.Bc(n),!0,n,3,B.aM,B.DO,n,B.a2,n)],t._),n),n,n),n),new A.U(4293841030),n)}}
+return new A.ty(new A.Dq(A.Mf(new A.yz(B.aG,B.qg,B.qh,B.kL,n,B.jy,n,A.a([h,i,s,r,q,new A.qP(p,n),o,new A.AJ(new A.Yg(new A.SK(new A.SJ(),g),3,!0,!0,!0,n),B.al,B.aG,!1,n,n,new A.Bc(n),!0,n,3,B.aM,B.DO,n,B.a2,n)],t._),n),n,n),n),new A.U(4293841030),n)}}
 A.SJ.prototype={
 Gg(a){var s=0,r=A.a_(t.H)
 var $async$$1=A.a0(function(b,c){if(b===1)return A.X(c,r)
